@@ -1,6 +1,6 @@
 [
     {
-        "type": "hip_hop",
+        "type": "hip_hop_dance",
         "id": 1,
         "actions": {
             "body": ["wiggle"],
@@ -21,7 +21,7 @@
 
     },
     {
-        "type": "electrodance",
+        "type": "electro_dance",
         "id": 3,
         "actions": {
             "body": ["wiggle"],
@@ -31,7 +31,7 @@
         }
     },
     {
-        "type": "house",
+        "type": "house_dance",
         "id": 4,
         "actions": {
             "body": [""],
