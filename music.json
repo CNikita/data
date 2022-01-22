@@ -1,17 +1,19 @@
-{
-    "rnb_music" : {
-        "id": 1,
-        "dances_id": [1, 2] //возможно не нужен
-    },
+[
+    {
+        "rnb_music" : {
+            "id": 1,
+            "dances_id": [1, 2] //возможно не нужен
+        },
 
-    "electrohouse": {
-        "id": 1,
-        "dances_id": [3, 4]
+        "electrohouse": {
+            "id": 1,
+            "dances_id": [3, 4]
 
-    },
-    "pop_music": {
-        "id": 1,
-        "dances_id": [5]
+        },
+        "pop_music": {
+            "id": 1,
+            "dances_id": [5]
 
+        }   
     }   
-}
+]
