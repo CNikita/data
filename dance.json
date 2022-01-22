@@ -1,50 +1,48 @@
 [
-    {
-        "hip_hop" : {
-            "id": 1,
-            "actions": {
-                "body": ["wiggle"],
-                "head": ["wiggle"],
-                "hands": ["folded"],
-                "legs": ["squat"]
-            }
-        },
-        "rnb_dance": {
-            "id": 2,
-            "actions": {
-                "body": [""],
-                "head": [""],
-                "hands": [""],
-                "legs": [""]
-            }
+    "hip_hop" : {
+        "id": 1,
+        "actions": {
+            "body": ["wiggle"],
+            "head": ["wiggle"],
+            "hands": ["folded"],
+            "legs": ["squat"]
+        }
+    },
+    "rnb_dance": {
+        "id": 2,
+        "actions": {
+            "body": [""],
+            "head": [""],
+            "hands": [""],
+            "legs": [""]
+        }
 
-        },
-        "electrodance": {
-            "id": 3,
-            "actions": {
-                "body": ["wiggle"],
-                "head": ["no"],
-                "hands": ["circular"],
-                "legs": ["rhythm"]
-            }
-        },
-        "house": {
-            "id": 4,
-            "actions": {
-                "body": [""],
-                "head": [""],
-                "hands": [""],
-                "legs": [""]
-            }
-        },
-        "pop_dance": {
-            "id": 5,
-            "actions": {
-                "body": ["smooth"],
-                "head": ["smooth"],
-                "hands": ["smooth"],
-                "legs": ["smooth"]
-            }
-        }   
-    }
+    },
+    "electrodance": {
+        "id": 3,
+        "actions": {
+            "body": ["wiggle"],
+            "head": ["no"],
+            "hands": ["circular"],
+            "legs": ["rhythm"]
+        }
+    },
+    "house": {
+        "id": 4,
+        "actions": {
+            "body": [""],
+            "head": [""],
+            "hands": [""],
+            "legs": [""]
+        }
+    },
+    "pop_dance": {
+        "id": 5,
+        "actions": {
+            "body": ["smooth"],
+            "head": ["smooth"],
+            "hands": ["smooth"],
+            "legs": ["smooth"]
+        }
+    }   
 ]
