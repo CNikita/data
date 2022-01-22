@@ -1,5 +1,6 @@
 [
-    "hip_hop" : {
+    {
+        "type": "hip_hop",
         "id": 1,
         "actions": {
             "body": ["wiggle"],
@@ -8,7 +9,8 @@
             "legs": ["squat"]
         }
     },
-    "rnb_dance": {
+    {
+        "type": "rnb_dance",
         "id": 2,
         "actions": {
             "body": [""],
@@ -18,7 +20,8 @@
         }
 
     },
-    "electrodance": {
+    {
+        "type": "electrodance",
         "id": 3,
         "actions": {
             "body": ["wiggle"],
@@ -27,7 +30,8 @@
             "legs": ["rhythm"]
         }
     },
-    "house": {
+    {
+        "type": "house",
         "id": 4,
         "actions": {
             "body": [""],
@@ -36,7 +40,8 @@
             "legs": [""]
         }
     },
-    "pop_dance": {
+    {
+        "type": "pop_dance",
         "id": 5,
         "actions": {
             "body": ["smooth"],
