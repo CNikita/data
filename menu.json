@@ -3,56 +3,72 @@
     "url_image": "https://CNikita.github.io/data/images/1.png", 
     "title": "Устрицы по рокфеллеровски", 
     "subtitle": "Значимость этих проблем настолько очевидна, что укрепление и развитие структуры", 
-    "price": "100", 
-    "weight":"100гр"
+    "price": 2700,
+    "weight": 500,
+    "priceMeasure": "₽",
+    "weightMeasure": "г"
   },
   {
     "url_image": "https://CNikita.github.io/data/images/2.png", 
     "title": "Свиные ребрышки на гриле с зеленью", 
     "subtitle": "Не следует, однако забывать, что реализация намеченных плановых", 
-    "price": "200", 
-    "weight":"100гр"
+    "price": 1600,
+    "weight": 750,
+    "priceMeasure": "₽",
+    "weightMeasure": "г"
   },
   {
     "url_image": "https://CNikita.github.io/data/images/3.png", 
     "title": "Креветки по-королевски в лимонном соке", 
     "subtitle": "Значимость этих проблем настолько очевидна, что укрепление и развитие структуры обеспечивает широкому кругу", 
-    "price": "300", 
-    "weight":"100гр"
+    "price": 1820,
+    "weight": 7,
+    "priceMeasure": "₽",
+    "weightMeasure": "шт"
   },
   {
     "url_image": "https://CNikita.github.io/data/images/4.png", 
     "title": "Устрицы по рокфеллеровски", 
     "subtitle": "Значимость этих проблем настолько очевидна, что укрепление и развитие структуры", 
-    "price": "400", 
-    "weight":"100гр"
+    "price": 2700,
+    "weight": 500,
+    "priceMeasure": "₽",
+    "weightMeasure": "г"
   },
   {
     "url_image": "https://CNikita.github.io/data/images/1.png", 
     "title": "Устрицы по рокфеллеровски", 
     "subtitle": "Значимость этих проблем настолько очевидна, что укрепление и развитие структуры", 
-    "price": "100", 
-    "weight":"100гр"
+    "price": 2700,
+    "weight": 500,
+    "priceMeasure": "₽",
+    "weightMeasure": "г"
   },
   {
     "url_image": "https://CNikita.github.io/data/images/2.png", 
     "title": "Свиные ребрышки на гриле с зеленью", 
     "subtitle": "Не следует, однако забывать, что реализация намеченных плановых", 
-    "price": "200", 
-    "weight":"100гр"
+    "price": 1600,
+    "weight": 750,
+    "priceMeasure": "₽",
+    "weightMeasure": "г"
   },
   {
     "url_image": "https://CNikita.github.io/data/images/3.png", 
     "title": "Креветки по-королевски в лимонном соке", 
     "subtitle": "Значимость этих проблем настолько очевидна, что укрепление и развитие структуры обеспечивает широкому кругу", 
-    "price": "300", 
-    "weight":"100гр"
+    "price": 1820,
+    "weight": 7,
+    "priceMeasure": "₽",
+    "weightMeasure": "шт"
   },
   {
     "url_image": "https://CNikita.github.io/data/images/4.png", 
     "title": "Устрицы по рокфеллеровски", 
     "subtitle": "Значимость этих проблем настолько очевидна, что укрепление и развитие структуры", 
-    "price": "400", 
-    "weight":"100гр"
+    "price": 2700,
+    "weight": 500,
+    "priceMeasure": "₽",
+    "weightMeasure": "г"
   }
 ]
