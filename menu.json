@@ -1,27 +1,27 @@
 [
   {
-    "url_image": '../../images/icons/vector-basket.svg', 
-    "title:" "Устрицы по рокфеллеровски", 
+    "url_image": "https://CNikita.github.io/data/images/1.png", 
+    "title": "Устрицы по рокфеллеровски", 
     "subtitle": "Subtitle", 
     "price": "100", 
     "weight":"100гр"
   },
   {
-    "url_image": "./images/2.png", 
+    "url_image": "https://CNikita.github.io/data/images/2.png", 
     "title": "Свиные ребрышки на гриле с зеленью", 
     "subtitle": "Subtitle2", 
     "price": "200", 
     "weight":"100гр"
   },
   {
-    "url_image": "./images/3.png", 
+    "url_image": "https://CNikita.github.io/data/images/3.png", 
     "title": "Креветки по-королевски в лимонном соке", 
     "subtitle": "Subtitle3", 
     "price": "300", 
     "weight":"100гр"
   },
   {
-    "url_image": "./images/4.png", 
+    "url_image": "https://CNikita.github.io/data/images/4.png", 
     "title": "Устрицы по рокфеллеровски", 
     "subtitle": "Subtitle4", 
     "price": "400", 
